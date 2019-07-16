@@ -112,7 +112,10 @@ y listo! en nuestra cuenta de github ya tiene que estar subido. pueden ver el ne
 
 Luego también editamos este readme para agregar los comandos con los que hicimos el repositorio
 
+ACA MODIFICO DE NUEVO , LOS COMANDOS CON LOS QUE HICIMOS REPOSITORIOS:
 
+primero forkeo
+git clone https://github.com/electric-lady/HOgit
 ```
 vi README.md
 ...
